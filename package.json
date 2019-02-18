@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "sweet-ass-app",
+    "combined-stuff",
+    "great-component",
+    "maybe-ok-component"
+  ]
+}

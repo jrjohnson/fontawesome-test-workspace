@@ -1,0 +1,1 @@
+export { default } from 'combined-stuff/components/list-with-header';
